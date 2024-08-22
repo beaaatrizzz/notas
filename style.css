@@ -1,0 +1,16 @@
+body{
+    display: flex;
+    padding: 0px;
+    font-family:fantasy;
+    background-color: beige;
+    justify-content: center;
+   
+}
+
+h1{
+    align-items: center;
+
+}
+main{
+    align-items: center;
+}
